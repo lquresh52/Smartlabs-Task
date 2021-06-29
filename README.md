@@ -12,6 +12,13 @@ Please submit the answers in a public GitHub repository and email us the URL of 
 Best of Luck!
 
 
+**DEMO**
+
+![Samrtlab Task Demo](https://user-images.githubusercontent.com/50036436/123846068-8b160380-d932-11eb-965e-b0d81d6f8d54.gif)
+
+
+
+
 ## Task 1:
 
 Create a View which will use https://free.currencyconverterapi.com/ API, to build a currency converter.
@@ -146,7 +153,4 @@ The fewer queries required to get the results the better.
 <br>
 <br>
 
-**DEMO**
-
-![Samrtlab Task Demo](https://user-images.githubusercontent.com/50036436/123846068-8b160380-d932-11eb-965e-b0d81d6f8d54.gif)
 
