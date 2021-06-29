@@ -77,8 +77,8 @@ class Item(models.Model):
 <br>
 <br>
 <br>
-**A. Develop a REST API (Django Rest Framework) which will list the orders by a specific user.**
- 
+
+**A. Develop a REST API (Django Rest Framework) which will list the orders by a specific user.** 
 
 The API response should look like:
 
