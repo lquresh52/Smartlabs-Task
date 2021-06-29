@@ -71,12 +71,12 @@ class Item(models.Model):
         decimal_places=2,
     )
 ```
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 **A. Develop a REST API (Django Rest Framework) which will list the orders by a specific user.**
  
 
@@ -108,13 +108,12 @@ The API response should look like:
 }
 ```
 **`Check api/urls.py/order-by-username/<str:username>/` & `url = http://127.0.0.1:8000/api//order-by-username/user1/`**
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **B. Write the required database queries to get these analytics data:**
     
