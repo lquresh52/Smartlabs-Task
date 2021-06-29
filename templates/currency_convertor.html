@@ -22,7 +22,8 @@
             --light-lemon: #EAE2B7;
         }
 
-        .form-select,.form-control {
+        .form-select,
+        .form-control {
             color: var(--yello-red);
             background-color: #003049b8;
         }
@@ -40,7 +41,7 @@
             color: var(--yello-red);
         }
 
-        .convert-btn{
+        .convert-btn {
             width: 50%;
             background-color: #D62828;
             border-radius: 20px;
@@ -50,7 +51,6 @@
             border: none;
             color: #FCBF49;
         }
-
     </style>
 
 </head>
@@ -70,8 +70,9 @@
             </div>
 
             <div class="form-floating mb-5">
-                <select class="form-select" id="fromcurrency" name="fromcurrency" aria-label="Floating label select example">
-                    
+                <select class="form-select" id="fromcurrency" name="fromcurrency"
+                    aria-label="Floating label select example">
+
                     {% for country_code in country_codes %}
                     <option value="{{country_code}}">{{country_code}}</option>
                     {% endfor %}
@@ -80,8 +81,9 @@
             </div>
 
             <div class="form-floating mb-5">
-                <select class="form-select" id="tocurrency" name="tocurrency" aria-label="Floating label select example">
-                    
+                <select class="form-select" id="tocurrency" name="tocurrency"
+                    aria-label="Floating label select example">
+
                     {% for country_code in country_codes %}
                     <option value="{{country_code}}">{{country_code}}</option>
                     {% endfor %}
@@ -97,6 +99,14 @@
 
     </div>
 
+
+    <footer class="text-center text-lg-start fixed-bottom">
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+            Designed & Developed by <strong>Quresh Lakdawala</strong>
+        </div>
+        <!-- Copyright -->
+    </footer>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
