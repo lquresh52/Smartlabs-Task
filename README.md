@@ -108,13 +108,18 @@ The API response should look like:
 - Get total number of orders per users.
   
   `[{'user_id: 1, 'count': 100}, {'user_id: 2, 'count': 100}, ...]`
+  Check `api/urls.py/tot-num-orders-per-users/`
+
 - Total orders per month. (for last 12 month's)
   
   `[{'month: 'January', 'count': 100}, {'month: 'February', 'count': 100}, ...]`
+  Check `api/urls.py/total-orders-per-month/`
+  
 - Total revenue from orders per month. (for last 12 month's)
   
   `[{'month: 'January', 'revenue': 100.00}, {'month: 'February', 'revenue': 100.00}, ...]`
-
+  Check `api/urls.py/total-revenue-from-orders-per-month/`
+    
 
 **Judging Criteria:**
 
