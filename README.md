@@ -102,7 +102,7 @@ The API response should look like:
   "discount": "20"
 }
 ```
-**`Check api/urls.py/order-by-username/<str:username>/` & `url = http://127.0.0.1:8000/api//order-by-username/user1/` **
+** `Check api/urls.py/order-by-username/<str:username>/` & `url = http://127.0.0.1:8000/api//order-by-username/user1/` **
 
 
 **B. Write the required database queries to get these analytics data:**
