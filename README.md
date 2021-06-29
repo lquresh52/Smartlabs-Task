@@ -141,3 +141,8 @@ The API response should look like:
 We will look at the way you optimize the database queries required for the API and the analytics,
 and how you structure the serializer for the API.
 The fewer queries required to get the results the better.
+
+<br>
+<br>
+<br>
+![Samrtlab Task Demo](samrtlab_task_demo.gif)
