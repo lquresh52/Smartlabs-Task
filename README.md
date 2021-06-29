@@ -1,13 +1,11 @@
 # Smartlabs Developer Screening Test
 
 Welcome to Smartlabs! This is a screening test, so we can get an idea of your knowledge of our stack - Python, Django and Django Rest Framework.
-Please submit the answers in a public GitHub repository and email us the URL of the repository (Preferred) or send us the files via email at <rohan@thesmartlabs.com>>.
+Please submit the answers in a public GitHub repository and email us the URL of the repository (Preferred) or send us the files via email.
 
 - Code clarity, efficiency and style are important factors.
 - Following coding conventions and best practices are encouraged.
 - Adding comment and doc strings on your code is a plus.
-
-If you have any doubts or questions about the tasks feel free to email us at <rohan@thesmartlabs.com>
 
 **We Recommend 24 hours to complete this test.**
 
